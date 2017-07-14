@@ -9,6 +9,10 @@
         {
             "name": "Chris Chatelain",
             "email": "chris@digiex.ca"
+        },
+        {
+            "name": "Nathan Koop",
+            "email": "nathan.koop@gmail.com"
         }
     ],
     "require": {
